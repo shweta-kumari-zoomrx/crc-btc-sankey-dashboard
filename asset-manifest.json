@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crc-btc-sankey-dashboard/static/css/main.e7f6ca14.css",
+    "main.js": "/crc-btc-sankey-dashboard/static/js/main.46e86488.js",
+    "index.html": "/crc-btc-sankey-dashboard/index.html",
+    "main.e7f6ca14.css.map": "/crc-btc-sankey-dashboard/static/css/main.e7f6ca14.css.map",
+    "main.46e86488.js.map": "/crc-btc-sankey-dashboard/static/js/main.46e86488.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7f6ca14.css",
+    "static/js/main.46e86488.js"
+  ]
+}
